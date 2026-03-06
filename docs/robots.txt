@@ -65,3 +65,5 @@ User-Agent: *
 DisallowAITraining: /
 Content-Usage: ai=n
 Allow: /
+
+Sitemap: https://yaya-cout.github.io/Nwagyu/sitemap.xml
